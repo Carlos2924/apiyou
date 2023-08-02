@@ -1,0 +1,17 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+.posters{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: rgb(255, 0, 0);
+    border-radius: 6px;
+    flex-direction: column;
+    width: 305px;
+    height: 480px;
+    text-align: center;
+}
